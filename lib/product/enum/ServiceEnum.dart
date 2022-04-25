@@ -1,0 +1,1 @@
+enum ServicePath { CURRENT }
